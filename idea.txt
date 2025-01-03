@@ -1,1 +1,4 @@
 Book
+Towel
+Hoody
+Rubbing oil
